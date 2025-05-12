@@ -1,0 +1,1 @@
+<br> This project models the five Earth-Sun Lagrange points using the numpy and plt module with the following manually-written numerical methods: Bisection, False Position, Newton's Method, and Gaussian Quadrature
